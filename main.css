@@ -1,0 +1,195 @@
+.navbar{
+    border: 1px solid black;
+    padding: 10px;
+    height: 50px;
+    
+
+}
+
+.navlist{
+
+    list-style: none;
+    font-weight: bold;
+    font-size: 20px;
+    display: inline-flex;
+    float: right;
+}
+
+.navlist li{
+    border: 1px solid rgb(26, 20, 20);
+    margin: 5px;
+}
+.content{
+    margin-top: 10px;
+    padding: 10px;
+    display: flex;
+    background-image: url('./bg.jpg');
+    text-align: left;
+    height: 500px;
+}
+.text-left{
+    width: 50%;
+    padding-left: 50px;
+    padding-top: 50px;
+}
+.img{
+    width: 50%;
+    text-align: center;
+    
+}
+h3{
+    color: orange;
+    font-size: 30px;
+    font-family: Tahoma,sans-serif;
+}
+h1{
+    color: black;
+    font-size: 60px;
+}
+button{
+    color: white;
+    border-radius: 30px;
+    width: 120px;
+    background-color: orangered;
+    padding: 10px;
+    border: unset;
+    
+
+}
+.green-text{
+    color: green;
+}
+.purple-text{
+    color: purple;
+}
+.text-blue-underline{
+    color: blue;
+    text-decoration: underline;
+}
+.text-purple-underline{
+    color: purple;
+    text-decoration: underline;
+}
+.text-blue-underline{
+    color: blue;
+    text-decoration: underline;
+}
+.logo{
+    height: 50px;
+    
+}
+.feature{
+    min-height: 250px;
+    border: 1px solid red;
+    display: flex;
+    justify-content: space-between;
+}
+.border{
+    min-height: 50px;
+    border: 1px solid green;
+    margin-top: 5px;
+    width: 20%;
+    text-align: center;
+    color: black;
+    
+}
+
+.text-center{
+    text-align: center;
+
+}
+
+.servicess{
+    display: flex;
+    justify-content: space-around;
+}
+
+.small-box{
+    background-color: #fafafa;
+    border: 1px solid red;
+    width: 40%;
+    display: flex;
+
+}
+
+.services{
+    
+    justify-content: space-around;
+    text-align: center;
+}
+
+.h4{
+    text-align: center;
+}
+h1{
+    text-align: center;
+  }
+
+ 
+ 
+ .violet{
+    
+    background-color: #8a73f1;
+    height: 100px;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 15px;
+    color: white;
+    display: flex;
+    padding: 5%;
+
+    
+ }
+ .inner-box{
+    width: 50%;
+    border: unset;
+    border-radius: 4px;
+    
+    
+
+
+ }
+
+ p{
+    font-size: 5px;
+ }
+
+ button{
+    background-color: orangered;
+    color: white;
+    border-radius: 4px;
+    border: unset;
+    padding: 3%;
+    
+    
+ }
+
+ input{
+    padding: 3%;
+    
+
+ }
+.first-box{
+    border: 1px solid black;
+    width: 25%;
+    height: 25%;
+    margin-left: 25%;
+    margin-right: 25%;
+    display: flex;
+    padding: 5%;
+}
+
+.inner-boxx{
+    width: 100%;
+    border:1px solid red;
+    border-radius: 4px;
+    padding: 10%;
+
+    
+}
+
+img{
+    width: 50%;
+    
+
+}
